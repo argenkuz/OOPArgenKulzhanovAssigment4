@@ -50,6 +50,7 @@ This project is a straightforward Python user management system. Classes for man
 
 ## UML Class Diagram
 
+![UML_Class_Diagram](https://github.com/user-attachments/assets/5af39f58-3d6e-40dd-8833-516211afce99)
 
 
 ## Sample Runs
