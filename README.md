@@ -81,6 +81,64 @@ Password strength: P@ssw0rd! is strong
 
 ### Test Output
 ```
+
+10)Generated Email: maga.magomedow@gmail.com
+
+8)Generated Password: '28D:iPT
+
+7)Generated User ID: 251981407
+
+9)Generated password is strong: }g)AS9if
+    Password is strong: Password123!
+    Password is weak: password123
+
+11)Generated email: maga.magomedow@gmail.com is Valid email
+   Invalid email: maga.magomedow@gmail.com is Not valid email
+
+User Age: Argen 19
+
+User Details: ID:230121012 
+Name: Argen 
+Surname: Kulzhanov 
+Email: argen.kulzhanov@gmail.com 
+Password: password123 
+Birthday: 2005-12-07
+
+Added Users:
+ID:230121012 
+Name: Argen 
+Surname: Kulzhanov 
+Email: argen.kulzhanov@gmail.com 
+Password: password123 
+Birthday: 2005-12-07
+ID:230121008 
+Name: Kirill 
+Surname: Donetskov 
+Email: kirill.donetskov@gmil.com 
+Password: password456 
+Birthday: 2005-06-12
+ID:230121024 
+Name: Meder 
+Surname: Rahatbekov 
+Email: meder.rahatbekov@gmail.com 
+Password: password789 
+Birthday: 2003-03-15
+
+5)User: None
+Before Update: ID:230121008 
+Name: Kirill 
+Surname: Donetskov 
+Email: kirill.donetskov@gmil.com 
+Password: password456 
+Birthday: 2005-06-12
+
+6)Updated User: ID:230121008 
+Name: Beks 
+Surname: Donetskov 
+Email: beks.kulzhanov@gmail.com 
+Password: password456 
+Birthday: 2005-06-12
+
 test_add_user (__main__.TestUserService) ... ok
 test_delete_user (__main__.TestUserService) ... ok
 test_find_user (__main__.TestUserService) ... ok
