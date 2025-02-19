@@ -81,14 +81,16 @@ Password strength: P@ssw0rd! is strong
 
 ### Test Output
 ```
+Launching unittests with arguments python -m unittest /Users/argenkulzhanov/Desktop/work/OOP argen/OOPArgenKulzhanovAssigment4/test.py in /Users/argenkulzhanov/Desktop/work/OOP argen/OOPArgenKulzhanovAssigment4
+
 
 10)Generated Email: maga.magomedow@gmail.com
 
-8)Generated Password: '28D:iPT
+8)Generated Password: X%1PAi3l
 
-7)Generated User ID: 251981407
+7)Generated User ID: 259990581
 
-9)Generated password is strong: }g)AS9if
+9)Generated password is strong: S%7Gp51=
     Password is strong: Password123!
     Password is weak: password123
 
@@ -97,47 +99,19 @@ Password strength: P@ssw0rd! is strong
 
 User Age: Argen 19
 
-User Details: ID:230121012 
-Name: Argen 
-Surname: Kulzhanov 
-Email: argen.kulzhanov@gmail.com 
-Password: password123 
-Birthday: 2005-12-07
+User Details: ID:230121012, Name: Argen, Surname: Kulzhanov, Email: argen.kulzhanov@gmail.com, Password: password123, Birthday: 2005-12-07
 
 Added Users:
-ID:230121012 
-Name: Argen 
-Surname: Kulzhanov 
-Email: argen.kulzhanov@gmail.com 
-Password: password123 
-Birthday: 2005-12-07
-ID:230121008 
-Name: Kirill 
-Surname: Donetskov 
-Email: kirill.donetskov@gmil.com 
-Password: password456 
-Birthday: 2005-06-12
-ID:230121024 
-Name: Meder 
-Surname: Rahatbekov 
-Email: meder.rahatbekov@gmail.com 
-Password: password789 
-Birthday: 2003-03-15
+ID:230121012, Name: Argen, Surname: Kulzhanov, Email: argen.kulzhanov@gmail.com, Password: password123, Birthday: 2005-12-07
+ID:230121008, Name: Kirill, Surname: Donetskov, Email: kirill.donetskov@gmil.com, Password: password456, Birthday: 2005-06-12
+ID:230121024, Name: Meder, Surname: Rahatbekov, Email: meder.rahatbekov@gmail.com, Password: password789, Birthday: 2003-03-15
 
 5)User: None
-Before Update: ID:230121008 
-Name: Kirill 
-Surname: Donetskov 
-Email: kirill.donetskov@gmil.com 
-Password: password456 
-Birthday: 2005-06-12
+Before Update: ID:230121008, Name: Kirill, Surname: Donetskov, Email: kirill.donetskov@gmil.com, Password: password456, Birthday: 2005-06-12
 
-6)Updated User: ID:230121008 
-Name: Beks 
-Surname: Donetskov 
-Email: beks.kulzhanov@gmail.com 
-Password: password456 
-Birthday: 2005-06-12
+6)Updated User: ID:230121008, Name: Beks, Surname: Donetskov, Email: beks.kulzhanov@gmail.com, Password: password456, Birthday: 2005-06-12
+
+Process finished with exit code 0
 
 test_add_user (__main__.TestUserService) ... ok
 test_delete_user (__main__.TestUserService) ... ok
